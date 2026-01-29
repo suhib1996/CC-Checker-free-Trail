@@ -1,4 +1,4 @@
-<div align="center"\>
+<div align="center">
 
 # **🛡️ FAZ3A CHECKER v5.0.3**
 
@@ -6,7 +6,7 @@
 
 [**🌐 Live Demo**](https://checker.faz3a.info/) | [**🛒 Buy License**](https://store.faz3a.info/) | [**💬 Support**](https://t.me/FAZ3ATEAMJO)
 
-</div\>
+</div>
 
 ## **🚀 Overview**
 
@@ -58,10 +58,10 @@ FAZ3A CHECKER is a premium tool designed for professionals.
 
 **Purchase:** [Click here to buy on our Store](https://store.faz3a.info/)
 
-<div align="center"\>
+<div align="center">
 
 **Developed by FAZ3A TEAM** *Next-Gen Security Tools*
 
 [Telegram Channel](https://t.me/FAZ3ATEAMJOchannel) • [Official Website](https://checker.faz3a.info/)
 
-</div\>
+</div>
